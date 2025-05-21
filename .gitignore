@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+
+# Java
+*.class
+
+# System files
+.DS_Store
+.idea/
+.vscode/
